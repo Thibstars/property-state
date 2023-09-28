@@ -1,0 +1,5 @@
+driver:
+  type: ${DRIVER:edge}
+
+provider: ${PROVIDER:IMMO_WEB}
+url: ${URL}
